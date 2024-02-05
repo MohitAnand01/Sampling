@@ -1,4 +1,4 @@
-# Sampling-Dhruv-102117061
+# Sampling-Mohit Anand-102153025
 # Sampling Techniques and Model Accuracy Analysis
 
 ## Overview
